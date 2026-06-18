@@ -2,7 +2,7 @@
 
 2년차 Data Analyst입니다. 직무는 Analyst지만, 주로 원천 데이터를 받아 데이터 웨어하우스에서 의사결정에 쓰일 수 있도록 정확하고 직관적인 수치로 가공하는 일을 합니다.
 
-웹(GA4)·앱(Firebase SDK) 사용자 행동 로그, 홈페이지 서버 HTTPS 로그, RDS의 ERP 운영 데이터를 다뤄 왔습니다. 데이터는 **BigQuery**에 모으고, 오케스트레이션은 **Google Cloud**(Cloud Workflows·Cloud Run Job), 적재는 **AWS**(S3·Lambda)·**Python**, 가공·모델링은 **dbt**로 합니다.
+**BigQuery**를 데이터 웨어하우스로, 오케스트레이션은 **Google Cloud**, 적재는 **AWS·Python**, 가공·모델링은 **dbt**로 써 왔습니다.
 
 더 많은 데이터를 다루고, 그 데이터가 의사결정에 잘 쓰이도록 받쳐주는 데이터 플랫폼을 만드는 일에 관심이 있습니다.
 
